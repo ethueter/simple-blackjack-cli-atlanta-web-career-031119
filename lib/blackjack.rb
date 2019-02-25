@@ -54,7 +54,8 @@ end
 #####################################################
 
 def runner
-  welcome
-  card_total = initial_round
+  if 1 == 1
+    welcome
+  end
 end
     

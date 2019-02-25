@@ -54,8 +54,6 @@ end
 #####################################################
 
 def runner
-  if 1 == 1
-    welcome
-  end
+  Welcome
 end
     
